@@ -1,0 +1,7 @@
+
+.env
+Pipfile
+Pipfile.lock
+__pycache__/responses.cpython-310.pyc
+__pycache__/bot.cpython-310.pyc
+.DS_Store
